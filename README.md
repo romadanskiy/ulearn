@@ -5,10 +5,6 @@
 </div>  
 </br>
 
-inst: [romadanskiy_krll](https://www.instagram.com/romadanskiy_krll/)  
-github: [romadanskiy](https://github.com/romadanskiy)  
-
-
 
 |<img src="https://www.flaticon.com/svg/static/icons/svg/1384/1384015.svg" width="25">|inst: [romadanskiy_krll](https://www.instagram.com/romadanskiy_krll/)|
 | -------------: |:-------------|
