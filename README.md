@@ -1,4 +1,4 @@
-# Решение практик из [Ulearn.me](https://ulearn.me/)
+# Решение практик из [Ulearn.me](https://ulearn.me)
 </br>
 <div align="center">
     <img src="https://i.hizliresim.com/PDpmQ7.gif">
@@ -13,5 +13,5 @@
 
 </br>
 
-> [!WARNING]
-> В решениях могут быть ошибки
+> [!WARNING]  
+> В решениях могут быть ошибки!  
