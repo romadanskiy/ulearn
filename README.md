@@ -8,14 +8,14 @@
 
 </br>
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-c-sharp.svg)](https://forthebadge.com) 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-resentment.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/uses-brains.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com)
-
 [inst]: https://www.instagram.com/romadanskiy_krll/
 [github]: https://github.com/romadanskiy
+
+[![](https://forthebadge.com/images/badges/made-with-c-sharp.svg)][github]
+[![](https://forthebadge.com/images/badges/built-with-resentment.svg)][github] 
+[![](https://forthebadge.com/images/badges/powered-by-electricity.svg)][github] 
+[![](https://forthebadge.com/images/badges/uses-brains.svg)][github] 
+[![](https://forthebadge.com/images/badges/for-you.svg)][github] 
 
 |[<img src="https://www.flaticon.com/svg/static/icons/svg/1384/1384015.svg" width="25">][inst]|inst: [romadanskiy_krll](https://www.instagram.com/romadanskiy_krll/)|
 | -------------: |:-------------|
