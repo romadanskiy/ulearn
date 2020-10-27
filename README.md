@@ -19,3 +19,9 @@
 
 > [!WARNING]  
 > В решениях могут быть ошибки!  
+
+</br>
+
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=romadanskiy)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=romadanskiy)](https://github.com/anuraghazra/github-readme-stats)
