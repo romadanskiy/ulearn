@@ -18,10 +18,17 @@
 </br>
 
 > [!WARNING]  
-> В решениях могут быть ошибки!  
+> В решениях могут быть ошибки!   
 
-</br>
+</br>  
+</br>  
 
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=romadanskiy)
+---  
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=romadanskiy)](https://github.com/anuraghazra/github-readme-stats)
+
+# About GitHub Account
+
+[![](https://github-readme-stats.vercel.app/api?username=romadanskiy)](https://github.com/romadanskiy)
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=romadanskiy)](https://github.com/romadanskiy)
+
