@@ -8,6 +8,10 @@
 
 </br>
 
+[![forthebadge](https://forthebadge.com/images/badges/made-with-c-sharp.svg)](https://forthebadge.com) 
+[![forthebadge](https://forthebadge.com/images/badges/built-with-resentment.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com)
+
 [inst]: https://www.instagram.com/romadanskiy_krll/
 [github]: https://github.com/romadanskiy
 
@@ -30,5 +34,4 @@
 
 [![](https://github-readme-stats.vercel.app/api?username=romadanskiy)](https://github.com/romadanskiy)
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=romadanskiy)](https://github.com/romadanskiy)
-
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=romadanskiy)](https://github.com/romadanskiy)  
