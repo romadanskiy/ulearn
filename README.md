@@ -1,4 +1,4 @@
-# Решение практик из [Ulearn.me](https://ulearn.me)
+# Решения практик из [Ulearn.me](https://ulearn.me)
 
 </br>
 
