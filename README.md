@@ -24,7 +24,12 @@
 </br>
 
 > [!WARNING]  
-> В решениях могут быть ошибки!   
+> В решениях могут быть ошибки!    
+
+</br>  
+
+Нашли несоответствие?  
+[![](https://img.shields.io/badge/Напиши%20мне!-kirillaromad@mail.ru-1abc9c.svg)](https://e.mail.ru)
 
 </br>  
 </br>  
